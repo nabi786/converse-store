@@ -10,7 +10,7 @@ Landing page for the Converse store built using React, Vite, JavaScript and Tail
 
 ## Live Demo
 
-https://converse-store.vercel.app/
+[https://converse-store.vercel.app/](https://converse-store-main.netlify.app/)
 
 ## Features
 
